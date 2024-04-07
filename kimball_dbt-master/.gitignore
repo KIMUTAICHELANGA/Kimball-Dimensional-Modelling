@@ -1,0 +1,6 @@
+
+*.swp
+*.pyc
+target/
+dbt_modules/
+logs/
